@@ -1,7 +1,7 @@
 ### Hi there, I'm Saurabh 👋
 
 ## 💫 About Me:
-- 🎓 Software Engineer | MCA Graduate (2025)
+- 🎓 Software Engineer | MCA Graduate 
 - 💻 Full Stack Developer — Java, Spring Boot, React, SQL
 - 🌱 Strong foundation in C, C++, OOPs, and core Software Engineering concepts
 - 🔍 Actively looking for opportunities as a Software Engineer / Full Stack Developer
